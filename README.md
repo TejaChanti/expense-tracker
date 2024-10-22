@@ -71,4 +71,13 @@ For SQLite, the following schema is used:
 ```bash
 git clone https://github.com/your-username/personal-expense-tracker.git
 cd personal-expense-tracker
+```
+2. **Install dependencies:**
 ```bash
+npm install
+```
+
+## Run the application:
+```bash
+npm index.js
+```
